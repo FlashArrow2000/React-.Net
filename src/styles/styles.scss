@@ -1,0 +1,10 @@
+//Main Settings
+@import './base/settings';
+@import './base/peliculaIndividual';
+@import './base/listadopeliculas';
+
+//Components
+
+@import './Components/Pelicula/peliculaIndividual';
+@import './Components/Pelicula/listadopeliculas';
+@import './Components/Utils/formgroupmarkdown'

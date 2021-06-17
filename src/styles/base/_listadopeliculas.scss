@@ -1,0 +1,7 @@
+@mixin listadoPeliculas_module {
+    .div__listado{
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+    }
+}
